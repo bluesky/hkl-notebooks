@@ -4,3 +4,6 @@ hklpy
 jupyter
 matplotlib
 numpy
+pycairo
+pygobject
+pygobject-stubs
