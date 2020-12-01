@@ -1,6 +1,7 @@
 name: hkl
 channels:
   - nsls2forge
+  - conda-forge
 dependencies:
   - bluesky
   - ophyd
