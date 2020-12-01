@@ -2,4 +2,12 @@ name: hkl
 channels:
   - nsls2forge
 dependencies:
+  - bluesky
+  - ophyd
   - hklpy
+  - jupyter
+  - matplotlib
+  - numpy
+  - pycairo
+  - pygobject
+  - pygobject-stubs
