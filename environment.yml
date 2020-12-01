@@ -1,0 +1,5 @@
+name: hkl
+channels:
+  - nsls2forge
+dependencies:
+  - hklpy
