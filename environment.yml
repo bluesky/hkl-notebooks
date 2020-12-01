@@ -11,4 +11,3 @@ dependencies:
   - numpy
   - pycairo
   - pygobject
-  - pygobject-stubs
