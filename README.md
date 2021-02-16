@@ -4,7 +4,7 @@ Run the `bluesky_hkl` notebook in this repository with binder:
 
 Or install the repository and run it locally:
 ```bash
-conda create -n hkl
+conda create -n hkl pip
 conda activate hkl
 conda install hklpy -c nsls2forge
 git clone https://github.com/bluesky/hkl-notebooks.git
